@@ -14,11 +14,4 @@ public class TemperatureConverter {
         System.out.println(celsius + "°C is: "+ fahrenheit + "°F");
     }
 
-    /*public void printToCelsius() {
-        System.out.println(celsius + "°C is: " + fahrenheit + "°F");
-
-    }
-    public void printToFahrenheit() {
-        System.out.println(fahrenheit + "°F is: " + celsius + "°C");
-    }*/
 }
